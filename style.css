@@ -24,16 +24,34 @@ a{
 }
 .col1{
     background-color: #67BF63;
+    color: white;
+
 }
 .col2{
     background-color: #ACBF65;
+    color: white;
+
 }
 .col3{
     background-color: #8C8577;
+    color: white;
 }
 .cards{
     gap: 2rem;
 }
 .crie{
     padding-top: 4rem;
+}
+.col4 {
+    background: #acbf65;
+}
+.col5{
+    background-color: #8C8577;
+}
+button.criar {
+    border: none;
+    background: #67bf63;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 1rem 0.9rem 1rem 0.9rem;
 }
