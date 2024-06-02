@@ -16,6 +16,9 @@ a{
 .TextTitu{
     font-family: "Inika", serif;
     font-weight: 800;
+    background: #8c8577;
+    padding: 1rem;
+    margin-bottom: 3rem;
 }
 .col1, .col2, .col3 ,.col4,.col5{
   width: 20rem;
@@ -43,15 +46,18 @@ a{
     padding-top: 4rem;
 }
 .col4 {
-    background: #acbf65;
+    background: #198754;
+    color: white;
 }
 .col5{
     background-color: #8C8577;
+    color: white;
 }
 button.criar {
     border: none;
     background: #67bf63;
     font-size: 20px;
     border-radius: 20px;
-    padding: 1rem 0.9rem 1rem 0.9rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
 }
